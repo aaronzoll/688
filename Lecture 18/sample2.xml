@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    text0
+  <Customers>
+      <Customer>
+          text1
+      </Customer>
+      <Customer>
+      </Customer>
+    </Customers>
+  <Orders>
+      text2
+    <Order>
+    </Order>
+    <Order>
+    </Order>
+</Orders>
+    text3
+</Root>
