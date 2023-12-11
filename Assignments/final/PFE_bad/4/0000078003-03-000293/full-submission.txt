@@ -1,0 +1,302 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fb/YlCiWz8jwPEjxcLjlNNZVFbryNF1kz5Mbx1WQvA/vc3nt+kuMvJFUcAdMd36/
+ H5sQeEnx+ItM0dPvjopYrg==
+
+<SEC-DOCUMENT>0000078003-03-000293.txt : 20031119
+<SEC-HEADER>0000078003-03-000293.hdr.sgml : 20031119
+<ACCEPTANCE-DATETIME>20031119134005
+ACCESSION NUMBER:		0000078003-03-000293
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031117
+FILED AS OF DATE:		20031119
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PFIZER INC
+		CENTRAL INDEX KEY:			0000078003
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				135315170
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2125732323
+
+	MAIL ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PFIZER CHARLES & CO INC
+		DATE OF NAME CHANGE:	19710908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STEERE WILLIAM C JR
+		CENTRAL INDEX KEY:			0001033870
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03619
+		FILM NUMBER:		031012383
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 LEROY AVENUE
+		CITY:			DARIEN
+		STATE:			CT
+		ZIP:			06820
+		BUSINESS PHONE:		2036557701
+
+	MAIL ADDRESS:	
+		STREET 1:		225 LEROY AVENUE
+		CITY:			DARIEN
+		STATE:			CT
+		ZIP:			06820
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ste519.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+    <schemaVersion>X0201</schemaVersion>
+
+    <documentType>4</documentType>
+	<periodOfReport>2003-11-17</periodOfReport>
+	<notSubjectToSection16>0</notSubjectToSection16>
+    <issuer>
+        <issuerCik>0000078003</issuerCik>
+        <issuerName>PFIZER INC</issuerName>
+        <issuerTradingSymbol>PFE</issuerTradingSymbol>
+	</issuer>
+	<reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001033870</rptOwnerCik>
+            <rptOwnerName>STEERE WILLIAM C JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>PFIZER INC.    ATT:  CORPORATE SECRETARY</rptOwnerStreet1>
+            <rptOwnerStreet2>235 EAST 42ND STREET</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+            <reportingOwnerRelationship>
+			<isDirector>1</isDirector>
+			<isOfficer>0</isOfficer>
+			<isTenPercentOwner>0</isTenPercentOwner>
+			<isOther>0</isOther>
+		</reportingOwnerRelationship>
+	</reportingOwner>
+	<nonDerivativeTable>
+		<nonDerivativeTransaction>
+			<securityTitle>
+				<value>Common Stock</value>
+			</securityTitle>
+			<transactionDate>
+				<value>2003-11-17</value>
+			</transactionDate>
+			<deemedExecutionDate>
+			</deemedExecutionDate>
+			<transactionCoding>
+				<transactionFormType>4</transactionFormType>
+				<transactionCode>M</transactionCode>
+				<equitySwapInvolved>0</equitySwapInvolved>
+			</transactionCoding>
+			<transactionAmounts>
+				<transactionShares>
+					<value>180000</value>
+				</transactionShares>
+				<transactionPricePerShare>
+					<value>8.17</value>
+				</transactionPricePerShare>
+				<transactionAcquiredDisposedCode>
+					<value>A</value>
+				</transactionAcquiredDisposedCode>
+			</transactionAmounts>
+			<postTransactionAmounts>
+				<sharesOwnedFollowingTransaction>
+					<value>2225470</value>
+				</sharesOwnedFollowingTransaction>
+			</postTransactionAmounts>
+			<ownershipNature>
+				<directOrIndirectOwnership>
+					<value>D</value>
+				</directOrIndirectOwnership>
+				<natureOfOwnership>
+					<value/>
+				</natureOfOwnership>
+			</ownershipNature>
+		</nonDerivativeTransaction>
+		<nonDerivativeTransaction>
+			<securityTitle>
+				<value>Common Stock</value>
+			</securityTitle>
+			<transactionDate>
+				<value>2003-11-17</value>
+			</transactionDate>
+			<deemedExecutionDate>
+			</deemedExecutionDate>
+			<transactionCoding>
+				<transactionFormType>4</transactionFormType>
+				<transactionCode>S</transactionCode>
+				<equitySwapInvolved>0</equitySwapInvolved>
+			</transactionCoding>
+			<transactionAmounts>
+				<transactionShares>
+					<value>180000</value>
+				</transactionShares>
+				<transactionPricePerShare>
+					<value>33.99</value>
+				</transactionPricePerShare>
+				<transactionAcquiredDisposedCode>
+					<value>D</value>
+				</transactionAcquiredDisposedCode>
+			</transactionAmounts>
+			<postTransactionAmounts>
+				<sharesOwnedFollowingTransaction>
+					<value>2045470</value>
+				</sharesOwnedFollowingTransaction>
+			</postTransactionAmounts>
+			<ownershipNature>
+				<directOrIndirectOwnership>
+					<value>D</value>
+				</directOrIndirectOwnership>
+				<natureOfOwnership>
+					<value/>
+				</natureOfOwnership>
+			</ownershipNature>
+		</nonDerivativeTransaction>
+		<nonDerivativeHolding>
+			<securityTitle>
+				<value>Common Stock</value>
+			</securityTitle>
+			<postTransactionAmounts>
+				<sharesOwnedFollowingTransaction>
+					<value>4936</value>
+				</sharesOwnedFollowingTransaction>
+			</postTransactionAmounts>
+			<ownershipNature>
+				<directOrIndirectOwnership>
+					<value>I</value>
+				</directOrIndirectOwnership>
+				<natureOfOwnership>
+					<value>By Spouse</value>
+					<footnoteId id="F1"/>
+				</natureOfOwnership>
+			</ownershipNature>
+		</nonDerivativeHolding>
+		<nonDerivativeHolding>
+			<securityTitle>
+				<value>Common Stock</value>
+			</securityTitle>
+			<postTransactionAmounts>
+				<sharesOwnedFollowingTransaction>
+					<value>279251</value>
+				</sharesOwnedFollowingTransaction>
+			</postTransactionAmounts>
+			<ownershipNature>
+				<directOrIndirectOwnership>
+					<value>I</value>
+				</directOrIndirectOwnership>
+				<natureOfOwnership>
+					<value>By Trusts</value>
+					<footnoteId id="F1"/>
+				</natureOfOwnership>
+			</ownershipNature>
+		</nonDerivativeHolding>
+	</nonDerivativeTable>
+	<derivativeTable>
+		<derivativeTransaction>
+			<securityTitle>
+				<value>Employee Stock Option (right to buy)</value>
+			</securityTitle>
+			<conversionOrExercisePrice>
+				<value>8.17</value>
+			</conversionOrExercisePrice>
+			<transactionDate>
+				<value>2003-11-17</value>
+			</transactionDate>
+			<deemedExecutionDate>
+			</deemedExecutionDate>
+			<transactionCoding>
+				<transactionFormType>4</transactionFormType>
+				<transactionCode>M</transactionCode>
+				<equitySwapInvolved>0</equitySwapInvolved>
+			</transactionCoding>
+			<transactionAmounts>
+				<transactionShares>
+					<value>180000</value>
+				</transactionShares>
+				<transactionPricePerShare>
+					<value>0</value>
+				</transactionPricePerShare>
+				<transactionAcquiredDisposedCode>
+					<value>D</value>
+				</transactionAcquiredDisposedCode>
+			</transactionAmounts>
+			<exerciseDate>
+				<footnoteId id="F2"/>
+			</exerciseDate>
+			<expirationDate>
+				<value>2005-08-23</value>
+			</expirationDate>
+			<underlyingSecurity>
+				<underlyingSecurityTitle>
+					<value>Common Stock</value>
+				</underlyingSecurityTitle>
+				<underlyingSecurityShares>
+					<value>180000</value>
+				</underlyingSecurityShares>
+			</underlyingSecurity>
+			<postTransactionAmounts>
+				<sharesOwnedFollowingTransaction>
+					<value>0</value>
+				</sharesOwnedFollowingTransaction>
+			</postTransactionAmounts>
+			<ownershipNature>
+				<directOrIndirectOwnership>
+					<value>D</value>
+				</directOrIndirectOwnership>
+				<natureOfOwnership>
+					<value/>
+				</natureOfOwnership>
+			</ownershipNature>
+		</derivativeTransaction>
+	</derivativeTable>
+	<footnotes>
+		<footnote id="F1">I hereby disclaim beneficial ownership of all shares held by members of my family directly or through trusts.</footnote>
+		<footnote id="F2">The option became exercisable in 5 equal annual installments beginning on August 24, 1996.</footnote>
+	</footnotes>
+	<remarks>
+	</remarks>
+	<ownerSignature>
+		<signatureName>By: Lawrence A. Fox, by power of atty.</signatureName>
+		<signatureDate>2003-11-19</signatureDate>
+	</ownerSignature>
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

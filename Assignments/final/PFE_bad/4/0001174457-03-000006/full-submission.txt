@@ -1,0 +1,429 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S2M3vnJgmrX4nbIYIdHmw3O34YcokEvBzz1GZrksSz3tCAFz0+exvb0upEmJJGF0
+ w4Zwi1/Fyjm5PWrz4dzW3g==
+
+<SEC-DOCUMENT>0001174457-03-000006.txt : 20030501
+<SEC-HEADER>0001174457-03-000006.hdr.sgml : 20030501
+<ACCEPTANCE-DATETIME>20030501120349
+ACCESSION NUMBER:		0001174457-03-000006
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030430
+FILED AS OF DATE:		20030501
+
+REPORTING-OWNER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTON ROBERT W
+		CENTRAL INDEX KEY:			0001174457
+		RELATIONSHIP:				OFFICER
+
+	FILING VALUES:
+		FORM TYPE:		4
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O PFIZER INC
+		STREET 2:		235 EAST 42ND ST ATTN: CORPORATE SEC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2127334802
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PFIZER INC
+		CENTRAL INDEX KEY:			0000078003
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				135315170
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03619
+		FILM NUMBER:		03675687
+
+	BUSINESS ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2125732323
+
+	MAIL ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PFIZER CHARLES & CO INC
+		DATE OF NAME CHANGE:	19710908
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>nor043003.htm
+<DESCRIPTION>FORM 4 - APRIL 30, 2003
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+SEC Form 4
+<TABLE width=1272 border=1>
+<TR>
+<TD width=254 valign=top>
+    <div align=center><font size=4 face=Tahoma><b>FORM 4</b></font></div>
+    <br><div><font size=1 face=Tahoma><b>[ ] Check this box if no longer<br>subject to Section 16.  Form 4 or Form<br>5 obligations may continue.<br><i>See</i> Instruction 1(b).</b></font></div>
+<br><font size=1 face=Tahoma>(Print or Type Responses)</font>
+</TD>
+<TD width=764 valign=middle align=center>
+    <font face=Tahoma><b>UNITED STATES SECURITIES AND EXCHANGE COMMISSION</b></font><br>
+    <font size=1 face=tahoma><b>Washington, D.C.&nbsp;&nbsp;20549</b></font><br><br>
+    <font size=2 face=tahoma><b>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP</b></font><br><br>
+    <font size=1 face=tahoma>Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934, Section 17(a) of the Public Utility</font><br>
+    <font size=1 face=tahoma>Holding Company Act of 1935 or Section 30(h) of the Investment Company Act of 1940</font><br>
+</TD>
+<TD width=254 valign=top>
+    <div align=center><font size=1 face=Tahoma>OMB APPROVAL</font></div>
+    <br><div align=center><hr width=98%></div><br>
+    <div><font size=1 face=Tahoma>OMB Number: 3235-0287</font></div>
+    <div><font size=1 face=Tahoma>Expires: January 31, 2005<br>Estimated average burden<br>hours per response. . . . . 0.5</font></div>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=1>
+<TR>
+<TD width=310 valign=top rowspan=2>
+    <div><font size=1 face=Tahoma>1. Name and Address of Reporting Person<sup>*</sup></font></div>
+    <div><font size=1 face=Tahoma><b>Norton, Robert&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W.</b></font></div>
+    <div align=center><hr width=98%></div>
+    <div align=center><font size=1 face=Tahoma>(Last) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(First) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Middle)</font></div>
+    <div><font size=1 face=Tahoma><b>Pfizer Inc.    Att:  Corporate Secretary</b></font></div>
+    <div><font size=1 face=Tahoma><b>235 East 42nd Street</b></font></div>
+    <div align=center><hr width=98%></div>
+    <div align=center><font size=1 face=Tahoma>(Street)</font></div>
+    <div><font size=1 face=Tahoma><b>New York, NY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10017</b></font></div>
+    <div align=center><hr width=98%></div>
+    <div align=center><font size=1 face=Tahoma>(City) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(State) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(Zip)</font></div>
+    <br>
+</TD>
+<TD width=444 valign=top colspan=2>
+    <div><font size=1 face=Tahoma>2. Issuer Name and Ticker or Trading Symbol</font></div><br>
+    <div><font size=1 face=Tahoma><b>Pfizer Inc &nbsp; (PFE)</b></font></div>
+</TD>
+<TD width=518 valign=top rowspan=2>
+    <div><font size=1 face=Tahoma>6. Relationship of Reporting Person(s) to Issuer</font></div>
+    <div align=center><font size=1 face=Tahoma>(Check all applicable)</font></div><br>
+    <div><font size=1 face=Tahoma><u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u> Director &nbsp;
+    <u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u> 10% Owner</font></div>
+    <div><font size=1 face=Tahoma><u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>X</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u> Officer &nbsp; &nbsp;
+    <u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</u> Other</font></div>
+    <div><font size=1 face=Tahoma>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <b><u>Senior Vice President</u></b></font></div>
+    <div align=center><hr width=98%></div>
+    <div><font size=1 face=Tahoma>7. Individual or Joint/Group Filing (Check Applicable Line)</font></div>
+    <br><div><font size=1 face=Tahoma><u> <b>X</b> </u> &nbsp; Form filed by One Reporting Person</font></div>
+    <div><font size=1 face=Tahoma><u> &nbsp; &nbsp; </u> &nbsp; Form filed by More than One Reporting Person</font></div>
+</TD>
+</TR>
+<TR>
+<TD width=254 valign=top>
+    <div><font size=1 face=Tahoma>3. I.R.S. Identification<br>&nbsp;&nbsp;&nbsp;&nbsp;Number of Reporting<br>&nbsp;&nbsp;&nbsp;&nbsp;Person, if an entity<br>&nbsp;&nbsp;&nbsp;&nbsp;(voluntary)</font></div>
+</TD>
+<TD width=190 valign=top>
+    <div><font size=1 face=Tahoma>4. Statement for<br>&nbsp;&nbsp;&nbsp;&nbsp;Month/Day/Year</font></div><br>
+    <div><font size=1 face=Tahoma><b>&nbsp;&nbsp;&nbsp;&nbsp;April 30, 2003</b></font></div>
+    <br><div align=center><hr width=98%></div>
+    <div><font size=1 face=Tahoma>5. If Amendment,<BR>&nbsp;&nbsp;&nbsp;&nbsp;Date of Original<br>&nbsp;&nbsp;&nbsp;&nbsp;(Month/Day/Year)</font></div>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=1>
+<TR>
+<TD width=100% valign=top>
+    <div align=center><font size=1 face=Tahoma><b>Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned</b></font></div>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=1>
+<TR>
+<TD width=340 valign=top>
+    <div><font size=1 face=Tahoma>1. Title of Security<br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 3)</font></div><br>
+</TD>
+<TD width=100 valign=top>
+    <div><font size=1 face=Tahoma>2. Transaction Date<br>&nbsp;&nbsp;&nbsp;&nbsp;(Month/Day/Year)</font></div>
+</TD>
+<TD width=100 valign=top>
+    <div><font size=1 face=Tahoma>2A. Deemed<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Execution<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date, if any<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Month/Day/Year)</font></div>
+</TD>
+<TD width=100 valign=top>
+    <font size=1 face=Tahoma>3. Transaction<br>&nbsp;&nbsp;&nbsp;&nbsp;Code<br>&nbsp;&nbsp;&nbsp;&nbsp;and<br>&nbsp;&nbsp;&nbsp;&nbsp;Voluntary<br>&nbsp;&nbsp;&nbsp;&nbsp;Code<br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 8)</font>
+    <br><br><div align=center><hr width=98%></div>
+    <div align=center><font size=1 face=Tahoma>Code &nbsp;|&nbsp; V &nbsp; &nbsp; </font></div>
+</TD>
+<TD width=320 valign=top>
+    <font size=1 face=Tahoma>4. Securities Acquired (A) or Disposed (D) Of<br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 3, 4, and 5)</font>
+    <br><br><br><br><div align=center><hr width=98%></div>
+    <div align=center><font size=1 face=Tahoma>&nbsp; &nbsp; &nbsp; &nbsp; Amount &nbsp; &nbsp;&nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; A/D &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Price &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font></div>
+</TD>
+<TD width=140 valign=top>
+    <div><font size=1 face=Tahoma>5. Amount of<br>&nbsp;&nbsp;&nbsp;&nbsp;Securities<br>&nbsp;&nbsp;&nbsp;&nbsp;Beneficially<br>&nbsp;&nbsp;&nbsp;&nbsp;Owned<br>&nbsp;&nbsp;&nbsp;&nbsp;Following<br>&nbsp;&nbsp;&nbsp;&nbsp;Reported<br>Transaction(s)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 3 and 4)</font></div>
+</TD>
+<TD width=114 valign=top>
+    <div><font size=1 face=Tahoma>6. Owner-<br>&nbsp;&nbsp;&nbsp;&nbsp;ship<br>&nbsp;&nbsp;&nbsp;&nbsp;Form:<br>&nbsp;&nbsp;&nbsp;&nbsp;Direct(D)<br>&nbsp;&nbsp;&nbsp;&nbsp;or<br>&nbsp;&nbsp;&nbsp;&nbsp;Indirect (I)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 4)</font></div>
+</TD>
+<TD width=100 valign=top>
+    <div><font size=1 face=Tahoma>7. Nature of<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indirect<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beneficial<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ownership<br><br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 4)</font></div>
+</TD>
+</TR>
+<TR>
+<TD width=250><br>
+</TD>
+<TD width=100><br>
+</TD>
+<TD width=100><br>
+</TD>
+<TD width=100><br>
+</TD>
+<TD width=320><br>
+</TD>
+<TD width=140><br>
+</TD>
+<TD width=114><br>
+</TD>
+<TD width=100><br>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+<TD ALIGN=LEFT VALIGN=TOP>
+    <div><font size=1 face=Tahoma>Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.</font></div>
+    <div><font size=1 face=Tahoma>* If the form is filed by more than one reporting person, <i>see</i> Instruction 4(b)(v).</font></div><br>
+</TD>
+<TD ALIGN=LEFT VALIGN=TOP>
+    <div align=center><font size=1 face=Tahoma>Persons who respond to the collection of information contained in this form are not required to <BR>respond unless the form displays a currently valid OMB control number.</font></div>
+</TD>
+<TD>
+    <div align=right><font size=1 face=Tahoma>(over)<br>SEC 1474 (9-02)</font></div>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+<TD width=100%><hr width=98%>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+    <TD width=100% align=right><font face=Tahoma><b>Norton, Robert W. - April 30, 2003</b></font><br>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+    <TD width=100%><font face=Tahoma><b>Form 4 (continued)</b></font>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=1>
+<TR>
+<TD width=100% valign=top>
+    <div align=center><font size=1 face=Tahoma><b>Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned</b></font></div>
+    <div align=center><font size=1 face=Tahoma><b>(<i>e.g.</i>, puts, calls, warrants, options, convertible securities)</b></font></div>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=1>
+<TR>
+<TD width=172 valign=top>
+    <div><font size=1 face=Tahoma>1. Title of Derivative Security<br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 3)</font></div>
+</TD>
+<TD width=76 valign=top>
+    <div><font size=1 face=Tahoma>2. Conver-<br>&nbsp;&nbsp;&nbsp;&nbsp;sion or<br>&nbsp;&nbsp;&nbsp;&nbsp;Exercise<br>&nbsp;&nbsp;&nbsp;&nbsp;Price of<br>&nbsp;&nbsp;&nbsp;&nbsp;Deri-<br>&nbsp;&nbsp;&nbsp;&nbsp;vative<br>&nbsp;&nbsp;&nbsp;&nbsp;Security</font></div>
+</TD>
+<TD width=76 valign=top>
+    <div><font size=1 face=Tahoma>3. Transaction<br>&nbsp;&nbsp;&nbsp;&nbsp;Date<br><br>&nbsp;&nbsp;&nbsp;&nbsp;(Month/<br>&nbsp;&nbsp;&nbsp;&nbsp;Day/<br>&nbsp;&nbsp;&nbsp;&nbsp;Year)</font></div>
+</TD>
+<TD width=76 valign=top>
+    <div><font size=1 face=Tahoma>3A. Deemed<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Execution<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date, if<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;any<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Month/<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day/<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year)</font></div>
+</TD>
+<TD width=78 valign=top>
+    <font size=1 face=Tahoma>4. Transaction</font>
+    <br><font size=1 face=Tahoma>&nbsp;&nbsp;&nbsp;&nbsp;Code</font><br>
+    <font size=1 face=Tahoma>&nbsp;&nbsp;&nbsp;&nbsp;and</font><br>
+    <font size=1 face=Tahoma>&nbsp;&nbsp;&nbsp;&nbsp;Voluntary (V)</font><br>
+    <font size=1 face=Tahoma>&nbsp;&nbsp;&nbsp;&nbsp;Code</font><br>
+    <font size=1 face=Tahoma>&nbsp;&nbsp;&nbsp;&nbsp;(Instr.8)</font>
+    <br><br><br><hr width="98%">
+    <div align=center><font size=1 face=Tahoma>Code | V &nbsp; &nbsp; </font></div>
+</TD>
+<TD width=160 valign=top>
+    <font size=1 face=Tahoma>5. Number of Derivative<br>&nbsp;&nbsp;&nbsp;&nbsp;Securities Acquired (A)<br>&nbsp;&nbsp;&nbsp;&nbsp;or Disposed (D) Of<br><br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 3,4 and 5)</font>
+</TD>
+<TD width=162 valign=top>
+    <div><font size=1 face=Tahoma>6. Date Exercisable(DE) and<br>&nbsp;&nbsp;&nbsp;&nbsp;Expiration Date(ED)<br>&nbsp;&nbsp;&nbsp;&nbsp;(Month/Day/Year)</font></div>
+    <br><br><br><br><br><div align=center><hr width=98%></div>
+    <div align=center><font size=1 face=Tahoma>&nbsp; (DE) &nbsp; &nbsp; | &nbsp; &nbsp; (ED) &nbsp;</font></div>
+</TD>
+<TD width=186 valign=top>
+    <div><font size=1 face=Tahoma>7. Title and Amount of<br>&nbsp;&nbsp;&nbsp;&nbsp;Underlying Securities<br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr. 3 and 4)</font></div>
+</TD>
+<TD width=76 valign=top>
+    <div><font size=1 face=Tahoma>8. Price<br>&nbsp;&nbsp;&nbsp;&nbsp;of<br>&nbsp;&nbsp;&nbsp;&nbsp;Derivative<br>&nbsp;&nbsp;&nbsp;&nbsp;Security<br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr.5)</font></div>
+</TD>
+<TD width=102 valign=top>
+    <font size=1 face=Tahoma>9. Number of<br>&nbsp;&nbsp;&nbsp;&nbsp;Derivative<br>&nbsp;&nbsp;&nbsp;&nbsp;Securities<br>&nbsp;&nbsp;&nbsp;&nbsp;Beneficially<br>&nbsp;&nbsp;&nbsp;&nbsp;Owned<br>&nbsp;&nbsp;&nbsp;&nbsp;Following<br>&nbsp;&nbsp;&nbsp;&nbsp;Reported<br>&nbsp;&nbsp;&nbsp;&nbsp;Transactions<br>&nbsp;&nbsp;&nbsp;&nbsp;(Instr.4)</font>
+</TD>
+<TD width=50 valign=top>
+    <font size=1 face=Tahoma>10.<br>Owner-<br>ship<br>Form of<br>Deriv-<br>ative<br>Security:<br>Direct<br>(D)<br>or<br>Indirect<br>(I)<br>(Instr.4)</font>
+</TD>
+<TD width=128 valign=top>
+    <font size=1 face=Tahoma>11. Nature of<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indirect<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beneficial<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ownership<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Instr.4)</font>
+</TD>
+</TR>
+<TR>
+<TD width=178>
+    <font size=1 face=Tahoma><b>Phantom Stock Units (SSP)</b></font><br>
+</TD>
+<TD width=76 align=right>
+    <font size=1 face=Tahoma><b>1-for-1</b></font>
+</TD>
+<TD width=76>
+    <font size=1 face=Tahoma><b>04/30/2003</b></font>
+</TD>
+<TD width=76>
+    <div><br></div>
+</TD>
+<TD width=78>
+    <div align=center><font size=1 face=Tahoma><b> &nbsp; &nbsp;A</b> | <b>&nbsp;</b>&nbsp; &nbsp; </font></div>
+</TD>
+<TD width=160>
+    <font size=1 face=Tahoma><b>&nbsp; &nbsp; (A) 29</b></font>
+</TD>
+<TD width=162>
+    <div align=center><font size=1 face=Tahoma><b>Immed.</b> | <b>  (1)</b></font></div>
+</TD>
+<TD width=186>
+    <font size=1 face=Tahoma><b>Common Stock</b> - <b>29</b></font>
+</TD>
+<TD width=76 align=right>
+    <font size=1 face=Tahoma><b>$30.75</b></font>
+</TD>
+<TD width=102 align=right>
+    <font size=1 face=Tahoma><b>23,994</b></font>
+</TD>
+<TD width=50>
+    <div align=center><font size=1 face=Tahoma><b>D</b></font></div>
+</TD>
+<TD width=128>
+    <font size=1 face=Tahoma><b></b></font><br>
+</TD>
+</TR>
+<TR>
+<TD width=178><br>
+</TD>
+<TD width=76><br>
+</TD>
+<TD width=76><br>
+</TD>
+<TD width=76><br>
+</TD>
+<TD width=78><br>
+</TD>
+<TD width=160><br>
+</TD>
+<TD width=162><br>
+</TD>
+<TD width=186><br>
+</TD>
+<TD width=76><br>
+</TD>
+<TD width=102><br>
+</TD>
+<TD width=50><br>
+</TD>
+<TD width=128><br>
+</TD>
+</TR>
+</TABLE>
+    <font size=1 face=Tahoma>Explanation of Responses : </font><br><br><br>
+<TABLE width=1272 border=0>
+<TR>
+<TD width=60% valign=top>
+    <font size=1 face=Tahoma>** Intentional misstatements or omissions of facts constitute Federal Criminal Violations.</font><br>
+    <font size=1 face=Tahoma>&nbsp; &nbsp; &nbsp; &nbsp; <i>See</i> 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).</font><br><br>
+    <font size=1 face=Tahoma>Note: &nbsp; File three copies of this Form, one of which must be manually signed.  If space is insufficient,</font><br>
+    <font size=1 face=Tahoma>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>see</i> Instruction 6 for procedure.</font><br><br>
+    <font size=1 face=Tahoma>Potential persons who are to respond to the collection of information contained in this form are not</font><br>
+    <font size=1 face=Tahoma>required to respond unless the form displays a currently valid OMB number.</font>
+</TD>
+    <TD width=40% valign=top> <font size=1 face=Tahoma><b>/s/ By Lawrence A. Fox
+      for</b><u><b><br>
+      </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Robert W. Norton&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp; &nbsp; &nbsp; </u>&nbsp; &nbsp; &nbsp; &nbsp;<u><b> &nbsp; &nbsp;05-01-2003
+      &nbsp; &nbsp;</b></u><br>
+      ** Signature of Reporting Person &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Date</font><br>
+      <br><font size=1 face=Tahoma><b>Power of Attorney</b></font><br><br>
+    <div align=right><font size=1 face=Tahoma>Page 2<br></font></div>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+<TD width=100%><hr width=98%>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+    <TD width=100% align=right><font face=Tahoma><b>Norton, Robert W. - April 30, 2003</b></font><br>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+    <TD width=100%><font face=Tahoma><b>Form 4 (continued)</b></font>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=1>
+<TR>
+<TD width=100%>
+    <div align=center><font face=Tahoma><b>FOOTNOTE Descriptions for Pfizer Inc (PFE)</b></font></div><br>
+    <div align=right><font face=Tahoma>Form 4 - April 30, 2003</font></div><br>
+    <div><b><font size=2 face=Tahoma>Robert W. Norton<br>Pfizer Inc.    Att:  Corporate Secretary<br>235 East 42nd Street<br>New York, NY 10017</font></b></div>
+    <div align=center><hr width=98%></div>
+    <div><font size=2 face=Tahoma><b>Explanation of responses:</b></font></div><br>
+    <font size=1 face=Tahoma><b>(1) &nbsp; These units, which were acquired pursuant to the Pfizer Inc. Nonfunded Deferred Compensation and Supplemental Savings Plan, are settled in cash following the reporting person's separation from service.</b></font><br>
+</TD>
+</TR>
+</TABLE>
+<TABLE width=1272 border=0>
+<TR>
+<TD width=100% align=right>
+    <font size=1 face=Tahoma>Page 3</font>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

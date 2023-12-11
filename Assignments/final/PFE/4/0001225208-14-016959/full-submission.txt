@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0001225208-14-016959.txt : 20140715
+<SEC-HEADER>0001225208-14-016959.hdr.sgml : 20140715
+<ACCEPTANCE-DATETIME>20140715133051
+ACCESSION NUMBER:		0001225208-14-016959
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140711
+FILED AS OF DATE:		20140715
+DATE AS OF CHANGE:		20140715
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PFIZER INC
+		CENTRAL INDEX KEY:			0000078003
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				135315170
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2125732323
+
+	MAIL ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PFIZER CHARLES & CO INC
+		DATE OF NAME CHANGE:	19710908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CANGIALOSI LORETTA V
+		CENTRAL INDEX KEY:			0001174449
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03619
+		FILM NUMBER:		14975432
+
+	MAIL ADDRESS:	
+		STREET 1:		PFIZER INC. ATTN. CORPORATE SECRETARY
+		STREET 2:		235 EAST 42ND ST.
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2014-07-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000078003</issuerCik>
+        <issuerName>PFIZER INC</issuerName>
+        <issuerTradingSymbol>PFE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001174449</rptOwnerCik>
+            <rptOwnerName>CANGIALOSI LORETTA V</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>PFIZER INC.-CORP. SECRETARY</rptOwnerStreet1>
+            <rptOwnerStreet2>235 EAST 42ND ST.</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Sr. Vice President, Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Phantom Stock Units SSP</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2014-07-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>246.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.0700</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>246.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>535.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each unit represents one phantom share of common stock.</footnote>
+        <footnote id="F2">These units, which were acquired pursuant to the Pfizer Inc. Nonfunded Deferred Compensation and Supplemental Savings Plan, are settled in cash following the reporting person's separation from service and may be transferred by the reporting person into an alternative investment account at any time.</footnote>
+    </footnotes>
+
+    <remarks>poalc14.htm</remarks>
+
+    <ownerSignature>
+        <signatureName>Susan E. Grant, by power of atty., for Loretta V. Cangialosi</signatureName>
+        <signatureDate>2014-07-15</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poalc14.htm
+<TEXT>
+<html>
+<head>
+<title>Power of Attorney</title>
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+
+<p align="center"><u><strong>POWER OF ATTORNEY</strong></u><br>
+</p>
+<p>The  undersigned hereby constitutes and appoints each of Atiba D. Adams, Lawrence A.  Fox, Tara J. Gabbai, Susan E. Grant, Lori P. Hernando and Madelyn D. Purcell as  the undersigned&rsquo;s true and lawful attorney-in-fact and agent, and grants each  of them full power to act on behalf of the undersigned and in the undersigned&rsquo;s  name, place and stead, in any and all capacities, for the purpose of completing  and signing, on behalf of the undersigned, </p>
+<ul type="disc">
+  <li>any       Form 3, Form 4 or Form 5 required or permitted to be filed by the       undersigned pursuant to Section 16 of the Securities Exchange Act of 1934,       as amended (the &ldquo;Exchange Act&rdquo;), </li>
+  <li>any       Form 144 required to be filed by the undersigned under the Securities Act       of 1933, as amended (the &ldquo;Securities Act&rdquo;), and Rule 144 promulgated       thereunder, and </li>
+  <li>any and       all other documents necessary or desirable to facilitate the filing by the       undersigned of Form 144 and forms under Section 16 of the Exchange Act, &nbsp;</li>
+</ul>
+<p>with regard to the  undersigned's ownership of or transactions in securities of Pfizer Inc.,  including, without limitation, the power to complete and sign any and all  amendments to such forms and documents, if any, and to file such forms and  documents and amendments thereto with the Securities and Exchange Commission,  and to do and perform each and every act and thing requisite or necessary to be  done in connection with such forms and documents and amendments thereto, as  fully and to all intents and purposes as the undersigned might or could do in person.&nbsp; </p>
+<p>The authority  of Atiba D. Adams, Lawrence A. Fox, Tara J. Gabbai, Susan E. Grant, Lori P.  Hernando and Madelyn D. Purcell under this Power of Attorney shall continue  until the undersigned is no longer required to file Form 3, Form 4, Form 5 or  Form 144 with regard to the undersigned's ownership of or transactions in  securities of Pfizer Inc., unless earlier revoked in writing.&nbsp; The undersigned acknowledges that Atiba D.  Adams, Lawrence A. Fox, Tara J. Gabbai, Susan E. Grant, Lori P. Hernando and Madelyn  D. Purcell are not assuming any of the undersigned's responsibilities to comply  with Rule 144 under the Securities Act or Section 16 of the Exchange Act.</p>
+<p>The  undersigned hereby revokes all previous Powers of Attorney with respect to the  subject matter hereof, and such previous Powers of Attorney shall be superseded  by this Power of Attorney.</p>
+<p align="left">&nbsp;</p>
+<p>Signature:&nbsp; <u>/s/&nbsp; Loretta V. Cangialosi</u><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loretta V. Cangialosi</p>
+<p>Date: April 1, 2014</p>
+<p>&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

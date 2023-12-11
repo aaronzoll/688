@@ -1,0 +1,170 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Oi06PT9Gu6ZJHDeOfvgBihO999/D2uBEgKiISOet2d/Za10q97VjuzPtbOBV5yM2
+ H0s2dgiSlBYKJVs1taT2XA==
+
+<SEC-DOCUMENT>0000078003-03-000051.txt : 20030515
+<SEC-HEADER>0000078003-03-000051.hdr.sgml : 20030515
+<ACCEPTANCE-DATETIME>20030515104434
+ACCESSION NUMBER:		0000078003-03-000051
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030512
+FILED AS OF DATE:		20030515
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PFIZER INC
+		CENTRAL INDEX KEY:			0000078003
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				135315170
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2125732323
+
+	MAIL ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PFIZER CHARLES & CO INC
+		DATE OF NAME CHANGE:	19710908
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			STEERE WILLIAM C JR
+		CENTRAL INDEX KEY:			0001033870
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03619
+		FILM NUMBER:		03701712
+
+	BUSINESS ADDRESS:	
+		STREET 1:		225 LEROY AVENUE
+		CITY:			DARIEN
+		STATE:			CT
+		ZIP:			06820
+		BUSINESS PHONE:		2036557701
+
+	MAIL ADDRESS:	
+		STREET 1:		225 LEROY AVENUE
+		CITY:			DARIEN
+		STATE:			CT
+		ZIP:			06820
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+
+<ownershipDocument>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2003-05-12</periodOfReport>
+
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000078003</issuerCik>
+        <issuerName>PFIZER INC</issuerName>
+        <issuerTradingSymbol>PFE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001033870</rptOwnerCik>
+            <rptOwnerName>STEERE WILLIAM C JR</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>  </rptOwnerStreet1>
+            <rptOwnerStreet2>  </rptOwnerStreet2>
+            <rptOwnerCity>  </rptOwnerCity>
+            <rptOwnerState>  </rptOwnerState>
+            <rptOwnerZipCode>  </rptOwnerZipCode>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeSecurity>
+        <securityTitle>
+            <value>Common Stock</value>
+        </securityTitle>
+        <transactionDate>
+            <value>2003-05-12</value>
+        </transactionDate>
+        <transactionCoding>
+            <transactionFormType>5</transactionFormType>
+            <transactionCode>G</transactionCode>
+            <equitySwapInvolved>0</equitySwapInvolved>
+        </transactionCoding>
+        <transactionTimeliness>
+            <value>E</value>
+        </transactionTimeliness>
+        <transactionAmounts>
+            <transactionShares>
+                <value>51800</value>
+            </transactionShares>
+            <transactionValue>
+                <value>0</value>
+            </transactionValue>
+            <transactionAcquiredDisposedCode>
+                <value>D</value>
+            </transactionAcquiredDisposedCode>
+        </transactionAmounts>
+        <postTransactionAmounts>
+            <sharesOwnedFollowingTransaction>
+                <value>1978612</value>
+                <footnoteId id="F1"/>
+            </sharesOwnedFollowingTransaction>
+        </postTransactionAmounts>
+        <ownershipNature>
+            <directOrIndirectOwnership>
+                <value>D</value>
+            </directOrIndirectOwnership>
+        </ownershipNature>
+    </nonDerivativeSecurity>
+
+    <footnotes>
+        <footnote id="F1">Common Stock held indirectly, as to which beneficial ownership is disclaimed: 4,936 shares held by Spouse, 331,402 shares held by Trusts.  In accordance with provisions of a Grantor Retained Annuity Trust (GRAT), since the reporting person's last report, 200,000 shares previously owned directly have been contributed to a &quot;GRAT&quot;.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Lawrence A. Fox, by power of atty.</signatureName>
+        <signatureDate>2003-05-15</signatureDate>
+    </ownerSignature>
+
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

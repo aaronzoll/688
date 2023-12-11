@@ -1,0 +1,156 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LiA4EEvfIo9QoZpncI9RJjsgsvOU8QBYKySMLEuDxIxKhcZlesvUTEsvd5a7V7KL
+ R+QwRmDbKssoTIzk+9V9sg==
+
+<SEC-DOCUMENT>0000078003-03-000064.txt : 20030522
+<SEC-HEADER>0000078003-03-000064.hdr.sgml : 20030522
+<ACCEPTANCE-DATETIME>20030522144422
+ACCESSION NUMBER:		0000078003-03-000064
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030416
+FILED AS OF DATE:		20030522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MEAD DANA G
+		CENTRAL INDEX KEY:			0001174482
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03619
+		FILM NUMBER:		03716117
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O PFIZER INC
+		STREET 2:		235 EAST 42ND ST ATTN: CORPORATE SEC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2127334802
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PFIZER INC
+		CENTRAL INDEX KEY:			0000078003
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				135315170
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2125732323
+
+	MAIL ADDRESS:	
+		STREET 1:		235 E 42ND ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PFIZER CHARLES & CO INC
+		DATE OF NAME CHANGE:	19710908
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>mea343.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+    <schemaVersion>X0101</schemaVersion>
+
+    <documentType>4</documentType>
+	<periodOfReport>2003-04-16</periodOfReport>
+	<notSubjectToSection16>0</notSubjectToSection16>
+    <issuer>
+        <issuerCik>0000078003</issuerCik>
+        <issuerName>PFIZER INC</issuerName>
+        <issuerTradingSymbol>PFE</issuerTradingSymbol>
+	</issuer>
+	<reportingOwner>
+		<reportingOwnerId>
+            <rptOwnerCik>0001174482</rptOwnerCik>
+            <rptOwnerName>MEAD DANA G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>  </rptOwnerStreet1>
+            <rptOwnerStreet2>  </rptOwnerStreet2>
+            <rptOwnerCity>  </rptOwnerCity>
+            <rptOwnerState>  </rptOwnerState>
+            <rptOwnerZipCode>  </rptOwnerZipCode>
+        </reportingOwnerAddress>
+            <reportingOwnerRelationship>
+			<isDirector>1</isDirector>
+			<isOfficer>0</isOfficer>
+			<isTenPercentOwner>0</isTenPercentOwner>
+			<isOther>0</isOther>
+		</reportingOwnerRelationship>
+	</reportingOwner>
+	<nonDerivativeSecurity>
+		<securityTitle>
+			<value>Common Stock</value>
+		</securityTitle>
+		<transactionDate>
+			<value>2003-04-16</value>
+		</transactionDate>
+		<transactionCoding>
+			<transactionFormType>4</transactionFormType>
+			<transactionCode>J</transactionCode>
+			<equitySwapInvolved>0</equitySwapInvolved>
+			<footnoteId id="F1"/>
+		</transactionCoding>
+		<transactionAmounts>
+			<transactionShares>
+				<value>350</value>
+			</transactionShares>
+			<transactionValue>
+				<value>0</value>
+				<footnoteId id="F1"/>
+			</transactionValue>
+			<transactionAcquiredDisposedCode>
+				<value>A</value>
+			</transactionAcquiredDisposedCode>
+		</transactionAmounts>
+		<postTransactionAmounts>
+			<sharesOwnedFollowingTransaction>
+				<value>9350</value>
+			</sharesOwnedFollowingTransaction>
+		</postTransactionAmounts>
+		<ownershipNature>
+			<directOrIndirectOwnership>
+				<value>D</value>
+			</directOrIndirectOwnership>
+			<natureOfOwnership>
+				<value/>
+			</natureOfOwnership>
+		</ownershipNature>
+	</nonDerivativeSecurity>
+	<footnotes>
+		<footnote id="F1">Received, in connection with the acquisition of Pharmacia Corporation by Pfizer Inc. (the Aquisition), in exchange for 250 shares of Pharmacia Common Stock.  On the effective date of the Acquisition, April 16, 2003, each share of Pharmacia common stock was exchanged for 1.4 shares of Pfizer common stock.</footnote>
+	</footnotes>
+	<ownerSignature>
+		<signatureName>By: Lawrence A. Fox, by power of atty.</signatureName>
+		<signatureDate>2003-05-22</signatureDate>
+	</ownerSignature>
+</ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
